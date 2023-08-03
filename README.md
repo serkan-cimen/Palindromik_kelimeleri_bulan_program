@@ -1,0 +1,2 @@
+# Palindromik_kelimeleri_bulan_program
+Palindromik_kelimeleri_bulan_program
